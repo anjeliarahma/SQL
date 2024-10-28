@@ -1,4 +1,5 @@
 🚀 Meningkatkan Kemampuan Database dengan SQL!
+
 Dalam proyek ini, saya menjelajahi dunia SQL melalui program "BootCamp Data Analyst with SQL & Python using Google Platform" di platform DQLab Academy.
 Yang pertama saya belajar tentang SQL, dimana saya belajar cara mengelola dan menganalisis data menggunakan query yang efektif. 
 Dengan memanfaatkan database nyata, saya mengasah keterampilan dalam:
